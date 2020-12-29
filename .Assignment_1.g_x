@@ -1,0 +1,134 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_CompilerCpp_SearchUserPaths</name>
+      <values lines_count="5">
+        <Line>"${ProjDirPath}/Sources/TSS"</Line>
+        <Line>"${ProjDirPath}/Static_Code/PDD"</Line>
+        <Line>"${ProjDirPath}/Static_Code/IO_Map"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_Libraries</name>
+      <values lines_count="1">
+        <Line>"TSS_KXX_M0"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_SearchLibraryPaths</name>
+      <values lines_count="1">
+        <Line>"${ProjDirPath}/Sources/TSS"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="5">
+        <Line>"${ProjDirPath}/Sources/TSS"</Line>
+        <Line>"${ProjDirPath}/Static_Code/PDD"</Line>
+        <Line>"${ProjDirPath}/Static_Code/IO_Map"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/PE_Const.h" FileDate="2021-03-10, 12:52:02" FileAge="1615380722176" FileType="45637" />
+      <File Name="Documentation/doxygen/GREEN_LED_component.txt" FileDate="2021-03-10, 13:01:15" FileAge="1615381275839" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2021-03-10, 14:49:30" FileAge="1615387770665" FileType="45637" CompNumb="2" />
+      <File Name="Sources/TSS/TSS_SensorGPIO.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767794" FileType="16384" CompNumb="12" />
+      <File Name="Sources/TSS/TSS_SensorGPIO.c" FileDate="2021-03-10, 14:49:27" FileAge="1615387767787" FileType="16384" CompNumb="12" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721985" FileType="1048576" />
+      <File Name="Sources/TSS/TSS_DataTypes.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767763" FileType="16384" CompNumb="12" />
+      <File Name="Documentation/doxygen/TU1_component.txt" FileDate="2021-03-10, 13:01:15" FileAge="1615381275920" FileType="45637" CompNumb="4" />
+      <File Name="Static_Code/PDD/TPM_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721998" FileType="1048576" />
+      <File Name="Static_Code/PDD/COP_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721962" FileType="1048576" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721965" FileType="1048576" />
+      <File Name="Generated_Code/GREEN_LED.h" FileDate="2021-03-10, 13:01:15" FileAge="1615381275872" FileType="45637" CompNumb="6" />
+      <File Name="ProjectInfo.xml" FileDate="2021-03-10, 14:49:31" FileAge="1615387771360" FileType="45637" />
+      <File Name="Documentation/doxygen/TU3_component.txt" FileDate="2021-03-10, 14:15:30" FileAge="1615385730453" FileType="45637" CompNumb="11" />
+      <File Name="Sources/TSS/TSS_SensorGPIO_def.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767799" FileType="16384" CompNumb="12" />
+      <File Name="Generated_Code/GREEN_LED.c" FileDate="2021-03-10, 13:01:15" FileAge="1615381275860" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/TSS1.h" FileDate="2021-03-10, 14:49:30" FileAge="1615387770572" FileType="45637" CompNumb="12" />
+      <File Name="Static_Code/PDD/UART0_PDD.h" FileDate="2021-03-10, 12:52:02" FileAge="1615380722003" FileType="1048576" />
+      <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2021-03-10, 12:52:02" FileAge="1615380722005" FileType="1048576" />
+      <File Name="Static_Code/PDD/TSI_PDD.h" FileDate="2021-03-10, 12:52:02" FileAge="1615380722000" FileType="1048576" />
+      <File Name="Generated_Code/TSS1.c" FileDate="2021-03-10, 14:49:30" FileAge="1615387770562" FileType="45637" CompNumb="12" />
+      <File Name="Sources/TSS/TSS_Sensor.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767782" FileType="16384" CompNumb="12" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721960" FileType="1048576" />
+      <File Name="Project_Settings/Startup_Code/startup.c" FileDate="2021-03-10, 12:52:01" FileAge="1615380721796" FileType="16384" CompNumb="2" />
+      <File Name="Sources/TSS/TSS_Sensor.c" FileDate="2021-03-10, 14:49:27" FileAge="1615387767776" FileType="16384" CompNumb="12" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2021-03-10, 12:52:02" FileAge="1615380722181" FileType="45637" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721994" FileType="1048576" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721992" FileType="1048576" />
+      <File Name="Generated_Code/RED_LED.h" FileDate="2021-03-10, 13:01:15" FileAge="1615381275912" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/TU3.h" FileDate="2021-03-10, 14:15:30" FileAge="1615385730476" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2021-03-10, 12:52:02" FileAge="1615380722161" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/Assignment_1_SIGNALS.txt" FileDate="2021-03-11, 03:45:55" FileAge="1615434355152" FileType="3072" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721963" FileType="1048576" />
+      <File Name="Generated_Code/RED_LED.c" FileDate="2021-03-10, 13:01:15" FileAge="1615381275904" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/TU3.c" FileDate="2021-03-10, 14:15:30" FileAge="1615385730467" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2021-03-10, 15:26:36" FileAge="1615389996019" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/TU2.h" FileDate="2021-03-10, 13:01:15" FileAge="1615381275828" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/TU2.c" FileDate="2021-03-10, 13:01:15" FileAge="1615381275812" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/TU1.h" FileDate="2021-03-10, 13:01:15" FileAge="1615381275955" FileType="45637" CompNumb="4" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721968" FileType="1048576" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2021-03-10, 12:52:02" FileAge="1615380722027" FileType="8" CompNumb="2" />
+      <File Name="Sources/TSS/TSS_SensorTSI.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767810" FileType="16384" CompNumb="12" />
+      <File Name="Static_Code/IO_Map/MKL25Z4.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721950" FileType="1048576" CompNumb="2" />
+      <File Name="Generated_Code/TU1.c" FileDate="2021-03-10, 13:01:15" FileAge="1615381275942" FileType="45637" CompNumb="4" />
+      <File Name="Sources/TSS/TSS_API.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767759" FileType="16384" CompNumb="12" />
+      <File Name="Generated_Code/TIMER_1MS.h" FileDate="2021-03-10, 14:15:30" FileAge="1615385730445" FileType="45637" CompNumb="10" />
+      <File Name="Sources/TSS/TSS_SensorTSI.c" FileDate="2021-03-10, 14:49:27" FileAge="1615387767804" FileType="16384" CompNumb="12" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721958" FileType="1048576" />
+      <File Name="Generated_Code/TIMER_1MS.c" FileDate="2021-03-10, 14:15:30" FileAge="1615385730422" FileType="45637" CompNumb="10" />
+      <File Name="Documentation/Assignment_1_Settings.xml" FileDate="2021-03-10, 17:00:22" FileAge="1615395622442" FileType="3072" />
+      <File Name="Sources/derivative.h" FileDate="2021-03-10, 14:49:30" FileAge="1615387770549" FileType="45637" CompNumb="12" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2021-03-10, 12:52:01" FileAge="1615380721876" FileType="16384" CompNumb="2" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721975" FileType="1048576" />
+      <File Name="Sources/TSS_SystemSetup.h" FileDate="2021-03-10, 17:00:21" FileAge="1615395621950" FileType="45637" CompNumb="12" />
+      <File Name="Documentation/doxygen/TIMER_1MS_component.txt" FileDate="2021-03-10, 14:15:30" FileAge="1615385730408" FileType="45637" CompNumb="10" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721972" FileType="1048576" />
+      <File Name="Sources/TSS/TSS_SensorTSIL.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767824" FileType="16384" CompNumb="12" />
+      <File Name="Documentation/doxygen/RED_LED_component.txt" FileDate="2021-03-10, 13:01:15" FileAge="1615381275883" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2021-03-10, 14:49:30" FileAge="1615387770654" FileType="45637" CompNumb="2" />
+      <File Name="Sources/Events.h" FileDate="2021-03-10, 17:15:17" FileAge="1615396517000" FileType="131328" />
+      <File Name="Sources/TSS/TSS_SensorTSIL.c" FileDate="2021-03-10, 14:49:27" FileAge="1615387767819" FileType="16384" CompNumb="12" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2021-03-10, 14:15:30" FileAge="1615385730601" FileType="45637" CompNumb="2" />
+      <File Name="Sources/Events.c" FileDate="2021-03-11, 03:43:51" FileAge="1615434231000" FileType="131328" />
+      <File Name="Sources/TSS/libTSS_KXX_M0.a" FileDate="2021-03-10, 14:49:27" FileAge="1615387767752" FileType="16384" CompNumb="12" />
+      <File Name="Sources/TSS/TSS_SystemSetupVal.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767844" FileType="16384" CompNumb="12" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721983" FileType="1048576" />
+      <File Name="Sources/TSS/TSS_GPIO.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767772" FileType="16384" CompNumb="12" />
+      <File Name="Documentation/doxygen/TU2_component.txt" FileDate="2021-03-10, 13:01:15" FileAge="1615381275791" FileType="45637" CompNumb="8" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721980" FileType="1048576" />
+      <File Name="Documentation/doxygen/BLUE_LED_component.txt" FileDate="2021-03-10, 13:01:15" FileAge="1615381275740" FileType="45637" CompNumb="7" />
+      <File Name="Sources/TSS/TSS_Freemaster.c" FileDate="2021-03-10, 14:49:27" FileAge="1615387767768" FileType="16384" CompNumb="12" />
+      <File Name="Sources/TSS/TSS_SystemSetupData.c" FileDate="2021-03-10, 14:49:27" FileAge="1615387767839" FileType="16384" CompNumb="12" />
+      <File Name="Sources/TSS/TSS_StatusCodes.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767834" FileType="16384" CompNumb="12" />
+      <File Name="Documentation/doxygen/Assignment_1_project.txt" FileDate="2021-03-10, 14:15:30" FileAge="1615385730591" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721996" FileType="1048576" />
+      <File Name="Generated_Code/BLUE_LED.h" FileDate="2021-03-10, 13:01:15" FileAge="1615381275777" FileType="45637" CompNumb="7" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721974" FileType="1048576" />
+      <File Name="Generated_Code/BLUE_LED.c" FileDate="2021-03-10, 13:01:15" FileAge="1615381275761" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2021-03-10, 14:15:30" FileAge="1615385730507" FileType="45637" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2021-03-10, 12:52:02" FileAge="1615380722048" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721988" FileType="1048576" />
+      <File Name="Static_Code/PDD/MCG_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721978" FileType="1048576" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2021-03-10, 12:52:02" FileAge="1615380722172" FileType="45637" />
+      <File Name="Sources/TSS/TSS_Timer.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767852" FileType="16384" CompNumb="12" />
+      <File Name="Sources/TSS/TSS_SensorTSIL_def.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767829" FileType="16384" CompNumb="12" />
+      <File Name="Sources/main.c" FileDate="2021-03-11, 03:45:54" FileAge="1615434354778" FileType="128" />
+      <File Name="Sources/TSS/TSS_SensorTSI_def.h" FileDate="2021-03-10, 14:49:27" FileAge="1615387767814" FileType="16384" CompNumb="12" />
+      <File Name="Static_Code/PDD/OSC_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721982" FileType="1048576" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721956" FileType="1048576" CompNumb="2" />
+      <File Name="Documentation/Assignment_1.txt" FileDate="2021-03-10, 14:49:31" FileAge="1615387771368" FileType="3072" />
+      <File Name="Static_Code/PDD/FTFA_PDD.h" FileDate="2021-03-10, 12:52:01" FileAge="1615380721970" FileType="1048576" />
+      <File Name="Documentation/doxygen/RoutingReport_component.txt" FileDate="2021-03-10, 12:52:02" FileAge="1615380722145" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/USB_PDD.h" FileDate="2021-03-10, 12:52:02" FileAge="1615380722008" FileType="1048576" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>10</CodeGenReference>
+</CodeGenerationInfo>

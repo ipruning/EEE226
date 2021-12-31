@@ -1,1 +1,1 @@
-# EEE226
+# EEE226 Simon game
